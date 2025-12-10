@@ -5,6 +5,7 @@
  */
 
 #include <array>
+#include <reflect.hpp>
 
 #define srefl_class(type, ...)                      \
     template <>                                     \
